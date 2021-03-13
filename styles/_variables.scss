@@ -38,14 +38,20 @@ $silver:                    #bdc3c7;
 $concrete:                  #95a5a6;
 $asbestos:                  #7f8c8d;
 
+
+// Sci-fi
+
+$scifi-dark-bg:             #13445c;
+$scifi-highlight-bg:        #21dabd;
+
 // Grays
 $gray:                      $concrete;
 $gray-light:                $silver;
 $inverse:                   white;
 
 // Brand colors
-$brand-primary:             $wet-asphalt;
-$brand-secondary:           $turquoise;
+$brand-primary:             $scifi-dark-bg;
+$brand-secondary:           $scifi-highlight-bg;
 $brand-success:             $emerald;
 $brand-warning:             $sun-flower;
 $brand-danger:              $alizarin;
