@@ -6013,7 +6013,6 @@ a.list-group-item > .badge-light,
   min-height: 53px;
   margin-bottom: 30px;
   border: none;
-  border-radius: 6px;
 }
 
 @media (min-width: 992px) {
@@ -10139,9 +10138,6 @@ input.todo-search-field::-webkit-input-placeholder {
   padding-bottom: 10px !important;
 }
 
-.pbl, .pvl, .pal {
-  padding-bottom: 20px !important;
-}
 
 .pbh, .pvh, .pah {
   padding-bottom: 40px !important;
