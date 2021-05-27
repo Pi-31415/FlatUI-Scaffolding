@@ -1,5 +1,11 @@
-# FlatUI Scaffolding
- Basic web app scaffolding using Flat UI
+# Orion Benches
+ A web-based prototype of Orion Benches project by my friend
+
+Run the Server by running
+
+```
+python -m http.server 9000
+```
 
  To compile scss, run
 
