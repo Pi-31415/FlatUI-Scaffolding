@@ -2,6 +2,11 @@
 
 Basic web app scaffolding using Flat UI
 
+## How to use 
+
+- tutorials in doc folder
+- scaffolding in dist folder
+
 Run the Server by running
 
 ```
