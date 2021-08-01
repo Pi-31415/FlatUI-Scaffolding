@@ -1,5 +1,6 @@
-# Orion Benches
- A web-based prototype of Orion Benches project by my friend
+# Flat UI Scaffolding
+
+Basic web app scaffolding using Flat UI
 
 Run the Server by running
 
